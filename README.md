@@ -4,7 +4,7 @@ A premium SaaS Agency website for Gridian Technologies, built with Next.js 14, T
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: Next.js 15 (App Router)
 - **Styling**: Tailwind CSS with custom Cobalt Blue theme
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
